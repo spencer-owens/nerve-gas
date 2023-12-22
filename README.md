@@ -1,5 +1,5 @@
-# <a href="https://github.com/spencer-owens/nerve-gas/blob/a554852bf3af7c8eaf832d2421253a09e5ad0d73/MavModeling.ipynb"> First, I made some preditions with Random Forest, Gradient Boosted, and SVR models</a> :keyboard:
-# <a href="https://github.com/spencer-owens/nerve-gas/blob/a554852bf3af7c8eaf832d2421253a09e5ad0d73/MavModelUpdatedRMSE.ipynb"> Then I made some changes to how split the data and measured the RMSE</a> :man_health_worker:
+# <a href="https://github.com/spencer-owens/nerve-gas/blob/a554852bf3af7c8eaf832d2421253a09e5ad0d73/MavModeling.ipynb"> I made some predictions with Random Forest, Gradient Boosted, and SVR models</a> :keyboard:
+# <a href="https://github.com/spencer-owens/nerve-gas/blob/a554852bf3af7c8eaf832d2421253a09e5ad0d73/MavModelUpdatedRMSE.ipynb"> Then I changed how I split the data and measured RMSE</a> :man_health_worker:
 # <a href="https://github.com/spencer-owens/nerve-gas/blob/a554852bf3af7c8eaf832d2421253a09e5ad0d73/MaverikSlides.pdf"> Finally, I made some slides</a> :desktop_computer:
 # <a href="https://github.com/spencer-owens/nerve-gas/blob/a554852bf3af7c8eaf832d2421253a09e5ad0d73/Resume2k23SO.pdf"> Check me out</a> :+1:
 
