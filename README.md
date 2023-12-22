@@ -20,7 +20,7 @@ The discussion is a little sparse in the notebook, but the videos help elucidate
 
 # <a href="https://github.com/spencer-owens/nerve-gas/blob/a554852bf3af7c8eaf832d2421253a09e5ad0d73/MaverikSlides.pdf"> Finally I made some slides</a> :desktop_computer: :fireworks:
 
-Conclustion:
+Conclusion:
 From this project the main thing I learned was how to apply theoretical knowledge to real (messy) data and how to deal with real stakeholders. It was time well spent.
 
 # <a href="https://github.com/spencer-owens/nerve-gas/blob/a554852bf3af7c8eaf832d2421253a09e5ad0d73/Resume2k23SO.pdf"> Check me out</a> :man_student: :+1:
